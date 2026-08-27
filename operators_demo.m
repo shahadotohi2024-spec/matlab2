@@ -210,31 +210,9 @@ disp(char_vec);
 disp("String (double quotes):");
 disp(str);
 
-disp('');
 
-% ============================================
-% 10. STRING APPEND (str1 + str2)
-% ============================================
-disp('10. STRING APPEND');
-disp('------------------');
 
-first_name = 'John';
-last_name = 'Doe';
-full_name = first_name + " " + last_name;
 
-disp("First name:");
-disp(first_name);
-disp("Last name:");
-disp(last_name);
-disp("Full name (appended):");
-disp(full_name);
-
-% More string operations
-greeting = "Hello";
-name = "Alice";
-message = greeting + ", " + name + "!";
-disp("Message:");
-disp(message);
 
 disp('');
 disp('========================================');
