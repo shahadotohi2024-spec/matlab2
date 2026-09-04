@@ -1,0 +1,13 @@
+ASK, FSK & PSK Modulation Data
+================================
+
+Data Bits: 0 0 0 1 1 0 0 1 
+
+ASK Demodulated: 0 0 0 1 1 0 0 1 
+FSK Demodulated: 0 0 0 1 1 0 0 1 
+PSK Demodulated: 0 0 0 1 1 0 0 1 
+
+Bandwidth Requirements:
+ASK: 4.00 Hz
+FSK: 44.00 Hz
+PSK: 4.00 Hz
